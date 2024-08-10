@@ -30,6 +30,10 @@ tag: Stores tags (id, tag_name).
 product_tag: Stores the many-to-many relationship between products and tags (product_id, tag_id).
 product --< product_tag >-- tag
    ### Explanation:
+
+   Youtube- https://youtu.be/kjdm_tNiQss
+
+Youtube- https://youtu.be/C2Nw01dw2z0
 - **Installation**: Detailed steps to get the project up and running.
 - **Usage**: Basic usage instructions with example API endpoints.
 - **Database Schema**: A simple description of the schema and relationships.
